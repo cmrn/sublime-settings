@@ -1,0 +1,32 @@
+{
+	"auto_upgrade_last_run": null,
+	"channels":
+	[
+		"http://sublime.wbond.net/channel.json"
+	],
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"DashDoc",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Gutter Color",
+		"Jedi - Python autocompletion",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
+		"SyncedSideBar",
+		"Theme - Flatland",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+	]
+}
