@@ -1,9 +1,4 @@
 {
-	"auto_upgrade_last_run": null,
-	"channels":
-	[
-		"http://sublime.wbond.net/channel.json"
-	],
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
@@ -25,8 +20,5 @@
 		"SyncedSideBar",
 		"Theme - Flatland",
 		"Theme - Spacegray"
-	],
-	"repositories":
-	[
 	]
 }
